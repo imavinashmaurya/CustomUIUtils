@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomUIUtils</string>
+    <string name="btPositiveText">OK</string>
+    <string name="btNegativeText">Cancel</string>
+</resources>

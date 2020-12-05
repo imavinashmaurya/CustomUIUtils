@@ -1,0 +1,3 @@
+include ':customUIUtils'
+include ':app'
+rootProject.name = "CustomUIUtils"

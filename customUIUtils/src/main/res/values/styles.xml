@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="CustomDialogTitle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CustomDialogDescription">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="CustomDialogPositiveButton">
+        <item name="android:textColor">@color/btTextColor</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="CustomDialogNegativeButton">
+        <item name="android:textColor">@color/btTextColor</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="CustomToastMessage">
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomUIUtils</string>
+    <string name="demo_title">Demo Title</string>
+    <string name="demo_des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque lobortis placerat. Nam dignissim mauris eget magna dictum, quis scelerisque libero sollicitudin. </string>
+</resources>
